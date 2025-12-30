@@ -3,6 +3,7 @@
  * script.js - Interactive functionality for the futuristic navigation experience
  * March 24, 2025
  */
+    AOS.init();
 
 document.addEventListener('DOMContentLoaded', () => {
   // DOM Elements
